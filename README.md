@@ -1,5 +1,4 @@
 - Hi, I’m @misaki-norimatsu
-- I’m currently studying mathematics
 
 <!---
 misaki-norimatsu/misaki-norimatsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
